@@ -41,5 +41,30 @@
   + Use of [isspace](http://www.cplusplus.com/reference/cctype/isspace/) function.
   + Introduction to [string stream](https://www.cplusplus.com/reference/sstream/stringstream/) classes.
   + Exercise: Break down a string into several words separated by a delimiter. See [here](https://github.com/jcarrasquel/dsba/blob/main/ws5-27-01-2021/7-sstream-token.cpp) an example.
-  
+
++ **Workshop 4. Fri 22.01.2021. (***Master class in Github and a Git client***)
+  + The workshop was recorded, it is publicly available [here]!(https://zoom.us/rec/share/ipvZpcizXUqqAfMlbijFKLnpInLKjfkPgOUVNxk2dzdIeY0LdikTFdxIc1lJiu4.P5bUcy7I_wXg1Rdt)
+  + Creating an account in Github, repository creation.
+  + Using a git client. Example with [SmartGit] (free for non-commercial use in Win/Linux/Apple).
+  + Clone, push/commit, branch creation, and merge. See [here](https://stackoverflow.com/questions/2745076/what-are-the-differences-between-git-commit-and-git-push) an image illustrating the commands.
+ 
++ **Workshop 3. Wed 20.01.2021.
+  + Loops: for, while, do-while.
+  + Break and continue statements.
+  + Increment/decrement operators. i++ vs ++i.
+  + Conditionals: If/else. Use of the conditional ternary operator ?
+  + Switch statement. See [here](https://github.com/jcarrasquel/dsba/blob/main/ws3-20-01-2021/9-switch.cpp) a nice example of creating a command-line menu using a switch statement.
+
++ **Workshop 2. Fri 15.01.2021.
+  + Continuation of the topics of Workshop 1.
+  + Built-in data types in C++.
+  + ASCII table and chars in C++
+  + C-style strings vs C++ string library.
+
++ **Workshop 1. Wed 13.01.2021.
+  + Welcoming and introduction to the seminars.
+  + Download, installation, and configuration of an IDE, compiler, and cmake build systems. Example with QtCreator.
+  + Creating/loading a project in QtCreator.
+  + CMakeLists.txt and project structure. Header and implementation files.
+  + Hello World! first example in C++
   

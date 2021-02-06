@@ -25,7 +25,7 @@
   + Command-line arguments in QtCreator.
   + Exercises: Code functions to analyze a text file. Counting word frequency in a text. Example with [Tolstoy's War and Peace](http://www.gutenberg.org/files/2600/2600-0.txt).
   + Use of function [find](http://www.cplusplus.com/reference/algorithm/find) for finding substrings in a string.
-  + Vectors
+  + Vectors.
 
 + **Workshop 6. Fri 29.01.2021.**
   + Separating declaration and implementation of a function.
@@ -37,4 +37,9 @@
   + Configuring working directory in QtCreator.
   
 + **Workshop 5. Wed 27.01.2021.**
+  + Reading a whole line (with spaces in-between) into a variable.
+  + Use of [isspace](http://www.cplusplus.com/reference/cctype/isspace/) function.
+  + Introduction to [string stream](https://www.cplusplus.com/reference/sstream/stringstream/) classes.
+  + Exercise: Break down a string into several words separated by a delimiter. See [here](https://github.com/jcarrasquel/dsba/blob/main/ws5-27-01-2021/7-sstream-token.cpp) an example.
+  
   

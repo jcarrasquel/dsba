@@ -15,7 +15,7 @@
 
 + **Workshop 8. Fri 05.02.2021.**
   + Revision of stream classes in C++ (iostream, fstream, string stream)
-  + I/O flags in C++. See [here](https://doc.bccnsoft.com/docs/cppreference_en/io_flags.html) for a (not) comprehensive of some I/O flags.
+  + I/O flags in C++. See [here](https://doc.bccnsoft.com/docs/cppreference_en/io_flags.html) for a not comprehensive list of some I/O flags.
   + More examples with vectors (passing vectors as argument to functions)
   + STL and [algorithm](http://www.cplusplus.com/reference/algorithm/) library.
   + Exercise: Read line-by-line a plain text file. Find all distinct words in a text.

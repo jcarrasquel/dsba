@@ -22,9 +22,19 @@
   + Exercise: Read line-by-line a plain text file. Find all distinct words in a text.
  
 + **Workshop 7. Wed 03.02.2021.**
-  + Command-line arguments in QtCreator
+  + Command-line arguments in QtCreator.
   + Exercises: Code functions to analyze a text file. Counting word frequency in a text. Example with [Tolstoy's War and Peace](http://www.gutenberg.org/files/2600/2600-0.txt).
   + Use of function [find](http://www.cplusplus.com/reference/algorithm/find) for finding substrings in a string.
   + Vectors
+
++ **Workshop 6. Fri 29.01.2021.**
+  + Separating declaration and implementation of a function.
+  + Passing built-in data types to functions by value or by reference using &.
+  + Passing arrays to functions. Use of *const* for read-only functions.
+  + Passing C-style strings (char arrays) and C++ strings to functions.
+  + Reading/writing a file with ifstream and ofstream classes.
+  + Relative paths and absolute paths.
+  + Configuring working directory in QtCreator.
   
++ **Workshop 5. Wed 27.01.2021.**
   

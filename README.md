@@ -44,7 +44,7 @@
 + **Workshop 4. Fri 22.01.2021.** (***Master class in Github and a Git client***)
   + The workshop was recorded, and it is publicly available [here](https://zoom.us/rec/share/ipvZpcizXUqqAfMlbijFKLnpInLKjfkPgOUVNxk2dzdIeY0LdikTFdxIc1lJiu4.P5bUcy7I_wXg1Rdt)!
   + Creating an account in Github, repository creation.
-  + Using a git client. Example with [SmartGit] (free for non-commercial use in Win/Linux/Apple).
+  + Using a git client. Example with [SmartGit](https://www.syntevo.com/smartgit/) (free for non-commercial use in Win/Linux/Apple).
   + Clone, push/commit, branch creation, and merge. See [here](https://stackoverflow.com/questions/2745076/what-are-the-differences-between-git-commit-and-git-push) an image illustrating the commands.
  
 + **Workshop 3. Wed 20.01.2021.**

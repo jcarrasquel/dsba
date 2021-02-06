@@ -10,4 +10,7 @@ void cloneFile(const std :: string inputFilePath, const std :: string cloneFileP
 
 int wordOccurrence(const std :: string inputFilePath, const std :: string myWord);
 
+/* 2 Writes in a output file all the distinct words found in an input file */
+void distinctWords(const std :: string inputFilePath, const std :: string cloneFilePath);
+
 #endif

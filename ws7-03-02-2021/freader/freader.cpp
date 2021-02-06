@@ -2,6 +2,8 @@
 #include <string>
 #include <iostream>
 #include <fstream>
+#include <vector>
+#include <sstream>
 
 void cloneFile(const std :: string inputFilePath, const std :: string cloneFilePath)
 {
@@ -43,6 +45,7 @@ int substringOccurrences(const std::string line, const std::string myWord)
     return occurrences;
 }
 
+// How many times a sub-string "myWord" occurs in a file
 int wordOccurrence(const std :: string inputFilePath, const std :: string myWord)
 {
     std :: cout << "Opening file: " + inputFilePath << std :: endl;
@@ -62,4 +65,50 @@ int wordOccurrence(const std :: string inputFilePath, const std :: string myWord
     inputFile.close();
 
     return accum;
+}
+
+// To obtain all the different words in the file
+void distinctWords(const std :: string inputFilePath, const std :: string outputFilePath)
+{
+    std :: ifstream inputFile(inputFilePath);
+
+    std :: ofstream outputFile(outputFilePath);
+
+    std :: string line;
+
+    std :: vector<std :: string> v;
+
+    // Read line-by-line
+    while(std :: getline(inputFile, line))
+    {
+        // Read the words in the line variable
+        std :: istringstream ss(line);
+        std :: string token;
+        while(std::getline(ss, token, ' ')) // token has the next word to read
+        {
+            bool found = false;
+            std::vector<std::string>::iterator it;
+            for(it = v.begin(); it != v.end(); ++it)
+            {
+                if(*it == token)
+                {
+                    found = true;
+                    break;
+                }
+            }
+            if(!found)
+            {
+                v.push_back(token);
+            }
+        }
+    }
+
+    std::vector<std::string>::iterator it;
+    for(it = v.begin(); it != v.end(); ++it)
+    {
+        outputFile << *it << std :: endl;
+    }
+
+    inputFile.close();
+    outputFile.close();
 }

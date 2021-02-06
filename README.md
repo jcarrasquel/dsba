@@ -21,4 +21,10 @@
   + STL and [algorithm](http://www.cplusplus.com/reference/algorithm/) library.
   + Exercise: Read line-by-line a plain text file. Find all distinct words in a text.
  
-
++ **Workshop 7. Wed 03.02.2021.**
+  + Command-line arguments in QtCreator
+  + Exercises: Code functions to analyze a text file. Counting word frequency in a text. Example with [Tolstoy's War and Peace](http://www.gutenberg.org/files/2600/2600-0.txt).
+  + Use of function [find](http://www.cplusplus.com/reference/algorithm/find) for finding substrings in a string.
+  + Vectors
+  
+  

@@ -11,7 +11,6 @@
 **Contact**: [Julio Carrasquel](https://www.hse.ru/staff/jcarrasquel) (Lecturer and Research Assistant at HSE)
 
 ---
-
 ### Workshop Log
 
 + **Workshop 8. Fri 05.02.2021.**

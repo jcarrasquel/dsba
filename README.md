@@ -13,7 +13,7 @@
 ---
 ### Workshop Log
 
-+ **Workshop 10 Fri 11.02.2021.**
++ **Workshop 10 Fri 12.02.2021.**
   + Quick review on UML diagrams. Behavioral and structural diagrams. Sequence diagrams to show the interaction between C++ functions.
 
 + **Workshop 9 Wed 10.02.2021.**

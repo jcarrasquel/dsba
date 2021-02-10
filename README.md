@@ -15,6 +15,7 @@
 
 + **Workshop 9 Wed 10.02.2021.**
   + Exercises on reading data from a CSV file. Example with the [Titanic sample set](https://github.com/jcarrasquel/dsba/blob/main/ws9-10-02-2021/titanic/titanic.csv)
+  + Quick review on UML diagrams. Behavioral and structural diagrams. Sequence diagrams to show the interaction between C++ functions.
 
 + **Workshop 8. Fri 05.02.2021.**
   + Revision of stream classes in C++ (iostream, fstream, string stream)

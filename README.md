@@ -13,6 +13,9 @@
 ---
 ### Workshop Log
 
++ **Workshop 9 Wed 10.02.2021.**
+  + Exercises on reading data from a CSV file. Example with the [Titanic sample set](https://github.com/jcarrasquel/dsba/blob/main/ws9-10-02-2021/titanic/titanic.csv)
+
 + **Workshop 8. Fri 05.02.2021.**
   + Revision of stream classes in C++ (iostream, fstream, string stream)
   + I/O flags in C++. See [here](https://doc.bccnsoft.com/docs/cppreference_en/io_flags.html) for a not comprehensive list of some I/O flags.

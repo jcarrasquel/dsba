@@ -31,11 +31,15 @@ int findSubstring(const std::vector<int>& v, std::string word)
 		if(found) // check only first ocurrence
 			break;
 	}
+
 	return found ? i : -1;
 }
 
-int main(int argc, char *argv[])
+int main()
 {
+	// #1 input: a   	 b    c d e f g h
+	// #2 input: cde
+
 	// Read and store the vector of ASCII elements
 	std :: vector<int> v;
 	readVector(std :: cin, v);

@@ -16,7 +16,6 @@ void survivors(std::ifstream& inputFile, std::vector<std :: string>& passengerNa
     char a;
     std :: string token;
     while (std :: getline(inputFile,line)) {
-        std :: cout<<line<<'\n';
         std::istringstream ss2(line);
         int i = 0;
         std::string survivor;
@@ -25,7 +24,9 @@ void survivors(std::ifstream& inputFile, std::vector<std :: string>& passengerNa
                 survivor = token;
             }
             if (i == 3 and survivor == "1") {
-                passengerNames.push_back(token);
+                int pos = token.find(";", 0);
+                std::string lastName = token.substr(0, pos);
+                passengerNames.push_back(lastName);
             }
             i++;
         }
@@ -39,6 +40,7 @@ int main(int argc, char *argv[])
     survivors(inputFile, passengerNames);
     inputFile.close();
     std :: vector<std :: string> :: iterator it;
+   
     for (it = passengerNames.begin(); it != passengerNames.end(); ++it)
         std :: cout << *it << "\n";
 

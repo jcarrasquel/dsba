@@ -13,6 +13,12 @@
 ---
 ### Workshop Log
 
++ **Workshop 11 Wed 17.02.2021.**
+  + Yet another exercise in reading and processing a CSV file.
+  + Maps
+  + Sets
+  + Review on the use of aliases and types of iterators.
+  
 + **Workshop 10 Fri 12.02.2021.**
   + Quick review on UML diagrams. Behavioral and structural diagrams. Sequence diagrams to show the interaction between C++ functions.
   + Resolution of Lecture Quiz 11.02.2021.

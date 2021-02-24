@@ -11,8 +11,7 @@ void printReverseVector(std::vector<int>& myVector);
 void fillMap(std::vector<int>& myVector, std::map<int,int>& myMap);
 void printMap(std::map<int,int>& myMap);
 
-/* ====================================
- Task 1
+/* === Task 1 ===
  Fill and print a map<int,int> of key-value pairs such that:
  key: a distinct number in the vector
  value: the number of occurrences
@@ -20,14 +19,26 @@ void printMap(std::map<int,int>& myMap);
 
 void fillMap(std::vector<int>& myVector, std::map<int,int>& myMap)
 {
-	// Code your solution here...
+	std :: vector<int> :: iterator it;
+	
+	for(it = myVector.begin(); it != myVector.end(); ++it)
+		myMap[*it] = myMap.find(*it) != myMap.end() ? myMap[*it] + 1 : 0;
 }
 
 void printMap(std::map<int,int>& myMap)
 {
-	// Code your solution here....
+	std :: map<int, int> :: iterator it;
+
+	std :: cout << "map: \n";	
+
+	for (it = myMap.begin(); it != myMap.end(); ++it)
+   		std::cout << it->first << " => " << it->second << '\n';
+
+   	// Range-based for is also possible!
+   	//for (std:: pair<int,int> el : myMap)
+   	//	std::cout << el.first << " => " << el.second << '\n';
+
 }
-// ====================================
 
 int main()
 {

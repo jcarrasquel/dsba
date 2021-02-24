@@ -13,10 +13,17 @@
 ---
 ### Workshop Log
 
++ **Workshop 12 Fri 19.02.2021.**
+  + RBTree-based containers and creation of user-defined compare functions.
+  + Hash-based containers.
+
++ **Workshop 12 Fri 19.02.2021.**
+  + Continuation of exercises of Workshop 11
+  + Review of deletion and addition of elements using iterator.
+
 + **Workshop 11 Wed 17.02.2021.**
   + Yet another exercise in reading and processing a CSV file.
-  + Maps
-  + Sets
+  + Introduction of Maps and Sets
   + Review on the use of aliases and types of iterators.
   
 + **Workshop 10 Fri 12.02.2021.**

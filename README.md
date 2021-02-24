@@ -13,7 +13,7 @@
 ---
 ### Workshop Log
 
-+ **Workshop 12 Fri 19.02.2021.**
++ **Workshop 13 Fri 24.02.2021.**
   + RBTree-based containers and creation of user-defined compare functions.
   + Hash-based containers.
 

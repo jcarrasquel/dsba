@@ -23,12 +23,49 @@ void printVector(std::vector<int>& myVector);
 
 void fillMap(std::vector<int>& myVector, std::map<int,bool>& myMap, int r, int q)
 {
-	// Code your solution here...
+	std :: vector<int> :: iterator it;
+	
+	bool b;
+
+	for(int n = r; n <= q; n++)
+	{
+		it = std :: find(myVector.begin(), myVector.end(), n);
+		
+		b = it != myVector.end(); // true if integer i is in vector myVector. False otherwise.
+		
+		myMap.insert(std::make_pair(n, b));
+	}
 }
 
 void fillSet(std::map<int,bool>& myMap, std::set<int>& mySet)
 {
-	// Code your solution here...
+	std :: map<int,bool> :: iterator it;
+
+	int n, b;
+	for(it = myMap.begin(); it != myMap.end(); ++it)
+	{
+		n = it->first;
+		b = it->second;
+
+		if(b) 
+			mySet.insert(n);
+	}
+}
+
+void deleteSet(std::set<int>& s)
+{
+	std::set<int>::iterator it;
+
+    for(it = s.begin(); it != s.end();)
+    {
+        bool remove = *it < 0; // remove if value is odd, e.g. 1, 3, 5...
+	
+        it = remove ? s.erase(it) : ++it;
+    }
+
+    for (it = s.begin(); it != s.end(); ++it)
+        std :: cout << *it << ' ';
+    std :: cout << '\n';
 }
 
 void printSet(std::set<int>& mySet)
@@ -74,6 +111,8 @@ int main()
 	fillSet(myMap, mySet);
 	
 	printSet(mySet);
+
+	deleteSet(mySet);
 }
 
 void printMap(std::map<int,bool>& myMap)

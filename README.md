@@ -18,7 +18,7 @@
   + Closing of the topic of containers.
   + 30-min exercises in small groups (slide 20 in [Workshop Notes](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshop15-notes.pdf))
   + Introduction to structures using the [example of coordinates, cities, and countries](https://github.com/jcarrasquel/dsba/tree/main/ws15-03-03-2021).
-  + Click [here](https://github.com/jcarrasquel/dsba/tree/main/ws15-03-03-2021) for a description of the problems about cities and football teams to solve in the following seminars.
+  + Click [here](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshops15-16-exercises-outline.pdf) for a description of the problems about cities and football teams to solve in the following seminars.
 
 + **Workshop 14 Fri 26.02.2021.**
   + Two exercises on containers with the cities.csv file. Find here the [Problems](https://github.com/jcarrasquel/dsba/blob/main/ws14-26-02-2021/workshop14.pdf) and the [Solutions](https://github.com/jcarrasquel/dsba/tree/main/ws14-26-02-2021)

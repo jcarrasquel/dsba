@@ -17,7 +17,7 @@
   + Closing of the example with [FootballTeams](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshops15-16-exercises-outline.pdf)
   + Exercises in small groups - coding structures from scratch.
   
-+ **Workshop 17 Wed 10.03.2021.**  [[Video Recording 204-2]](https://www.youtube.com/watch?v=0rEN1ian4jw)
++ **Workshop 17 Wed 10.03.2021.** [[Video Recording 203-1]](https://youtu.be/FdW9WHJfx_I) [[Video Recording 204-2]](https://www.youtube.com/watch?v=0rEN1ian4jw)
   + Working with methods in structures, encapsulation of structure fields.
   + Use of the [example of FootballTeams](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshops15-16-exercises-outline.pdf)
 

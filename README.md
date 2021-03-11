@@ -26,8 +26,7 @@
   + Compare of structures using a user-defined compare boolean function.
   + Overload of the output standard << operator.
 
-+ **Workshop 15 Wed 03.03.2021.** [[Video Recording 203-1]](https://zoom.us/rec/share/vZaoFJb2MCeLp6hF_QK9adTl4WHuNKt-2AnR5ORAZjR_JzhH_wzzvpO4fex42HkZ.GpVFYZNVuy5CtlQB)  [[Video Recording 204-2]](https://zoom.us/rec/share/yg2JieyaHpjEhMUjPDAgpsYZEd4YrLF1n_eJmKJIwqpmfNFjtp9IIbcqnkl_a0bP.1p-qDRDRek3nmLuR
-)  [[Workshop Notes]](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshop15-notes.pdf)
++ **Workshop 15 Wed 03.03.2021.** [[Video Recording 203-1]](https://youtu.be/dNWYovV3oq0)  [[Video Recording 204-2]](https://youtu.be/e-AyvyZ-yzY)  [[Workshop Notes]](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshop15-notes.pdf)
   + Closing of the topic of containers.
   + 30-min exercises in small groups (slide 20 in [Workshop Notes](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshop15-notes.pdf))
   + Introduction to structures using the [example of coordinates, cities, and countries](https://github.com/jcarrasquel/dsba/tree/main/ws15-03-03-2021).

@@ -13,12 +13,25 @@
 ---
 ### Workshop Log
 
-+ **Workshop 15 Fri 03.03.2021.** [[Video Recording 203-1]](https://zoom.us/rec/share/vZaoFJb2MCeLp6hF_QK9adTl4WHuNKt-2AnR5ORAZjR_JzhH_wzzvpO4fex42HkZ.GpVFYZNVuy5CtlQB)  [[Video Recording 204-2]](https://zoom.us/rec/share/yg2JieyaHpjEhMUjPDAgpsYZEd4YrLF1n_eJmKJIwqpmfNFjtp9IIbcqnkl_a0bP.1p-qDRDRek3nmLuR
++ **Workshop 18 Fri 12.03.2021.**
+  + Closing of the example with [FootballTeams](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshops15-16-exercises-outline.pdf)
+  + Exercises in small groups - coding structures from scratch.
+  
++ **Workshop 17 Wed 10.03.2021.**
+  + Working with methods in structures, encapsulation of structure fields.
+  + Use of the [example of FootballTeams](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshops15-16-exercises-outline.pdf)
+
++ **Workshop 16 Fri 05.03.2021.**
+  + Continuation of the exercises of previous seminar.
+  + Compare of structures using a user-defined compare boolean function.
+  + Overload of the output standard << operator.
+
++ **Workshop 15 Wed 03.03.2021.** [[Video Recording 203-1]](https://zoom.us/rec/share/vZaoFJb2MCeLp6hF_QK9adTl4WHuNKt-2AnR5ORAZjR_JzhH_wzzvpO4fex42HkZ.GpVFYZNVuy5CtlQB)  [[Video Recording 204-2]](https://zoom.us/rec/share/yg2JieyaHpjEhMUjPDAgpsYZEd4YrLF1n_eJmKJIwqpmfNFjtp9IIbcqnkl_a0bP.1p-qDRDRek3nmLuR
 )  [[Workshop Notes]](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshop15-notes.pdf)
   + Closing of the topic of containers.
   + 30-min exercises in small groups (slide 20 in [Workshop Notes](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshop15-notes.pdf))
   + Introduction to structures using the [example of coordinates, cities, and countries](https://github.com/jcarrasquel/dsba/tree/main/ws15-03-03-2021).
-  + Click [here](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshops15-16-exercises-outline.pdf) for a description of the problems about cities and football teams to solve in the following seminars.
+  + Click [here](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshops15-16-exercises-outline.pdf) for a description of the problems about cities.
 
 + **Workshop 14 Fri 26.02.2021.**
   + Two exercises on containers with the cities.csv file. Find here the [Problems](https://github.com/jcarrasquel/dsba/blob/main/ws14-26-02-2021/workshop14.pdf) and the [Solutions](https://github.com/jcarrasquel/dsba/tree/main/ws14-26-02-2021)

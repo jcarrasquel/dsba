@@ -23,7 +23,7 @@
 + **Workshop 18 Fri 12.03.2021.** [[Video Recording 203-1]](https://youtu.be/kEpmWMTQLMQ) [[Video Recording 204-2]](https://youtu.be/pW6kaJRAa9s) [[Video Recording (in Russian): Overload of <<]](https://youtu.be/e2S24ijOa9g) 
   + Closing of the example with [FootballTeams](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshops15-16-exercises-outline.pdf)
   + Review: Variants for generating random numbers
-  + Review: Variants for sorting objects in containers: boolean compare function vs overload of < 
+  + Review: Variants for sorting objects in containers: boolean compare function vs overload of <<.
   
 + **Workshop 17 Wed 10.03.2021.** [[Video Recording 203-1]](https://youtu.be/FdW9WHJfx_I) [[Video Recording 204-2]](https://www.youtube.com/watch?v=0rEN1ian4jw)
   + Working with methods in structures, encapsulation of structure fields.

@@ -20,7 +20,7 @@
   + Explanation of a vector3D class and examples of operator overloads.
   + Introduction to example of BigInteger class.
 
-+ **Workshop 18 Fri 12.03.2021.** [[Video Recording 203-1]](https://youtu.be/kEpmWMTQLMQ) [[Video Recording 204-2]](https://youtu.be/pW6kaJRAa9s) [[Video Recording (in Russian): Overload of "<<"]](https://youtu.be/e2S24ijOa9g) 
++ **Workshop 18 Fri 12.03.2021.** [[Video Recording 203-1]](https://youtu.be/kEpmWMTQLMQ) [[Video Recording 204-2]](https://youtu.be/pW6kaJRAa9s) [[Video Recording (in Russian): Overload of <<]](https://youtu.be/e2S24ijOa9g) 
   + Closing of the example with [FootballTeams](https://github.com/jcarrasquel/dsba/blob/main/ws15-03-03-2021/workshops15-16-exercises-outline.pdf)
   + Review: Variants for generating random numbers
   + Review: Variants for sorting objects in containers: boolean compare function vs overload of < 

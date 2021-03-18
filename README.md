@@ -17,7 +17,7 @@
   + Explanation of a [vector3D class and examples of operator overloads](https://github.com/jcarrasquel/dsba/tree/main/ws19-17-03-2021/vector3d)
   + Introduction to [exercise of BigInteger class](https://github.com/jcarrasquel/dsba/blob/main/ws19-17-03-2021/BigInteger.pdf).
 
-+ **Workshop 18 Fri 12.03.2021.** [[Video Recording 203-1]](https://youtu.be/kEpmWMTQLMQ) [[Video Recording 204-2]](https://youtu.be/pW6kaJRAa9s) [[Video Recording (in Russian): Overload of <<]](https://youtu.be/e2S24ijOa9g) 
++ **Workshop 18 Fri 12.03.2021.** [[Video Recording 203-1]](https://youtu.be/kEpmWMTQLMQ) [[Video Recording 204-2]](https://youtu.be/pW6kaJRAa9s) [[Video (in Russian): Overload of <<]](https://youtu.be/e2S24ijOa9g) 
   + Closing of the example with FootballTeams [[slides]](https://github.com/jcarrasquel/dsba/blob/main/ws18-12-03-2021/workshop18.pdf) [[code]](https://github.com/jcarrasquel/dsba/tree/main/ws18-12-03-2021/football)
   + Review: Variants for generating random numbers: [C++-style](https://github.com/jcarrasquel/dsba/blob/main/ws18-12-03-2021/random-styles/random1.cpp) vs [C-style](https://github.com/jcarrasquel/dsba/blob/main/ws18-12-03-2021/random-styles/random2.cpp)
   + Review: Variants for sorting objects in containers: [boolean compare function](https://github.com/jcarrasquel/dsba/blob/main/ws18-12-03-2021/compare-styles/compare1.cpp) vs [overload of <<](https://github.com/jcarrasquel/dsba/blob/main/ws18-12-03-2021/compare-styles/compare2.cpp)

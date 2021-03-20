@@ -20,7 +20,7 @@
   + Sort objects by overload of <.
   + Print objects by overload of <<.
   
-+ **Workshop 20 Fri 19.03.2021.** 
++ **Workshop 20 Fri 19.03.2021.** [[Video Recording 203-1]](https://youtu.be/ESIeoLuiLS8) [[Video Recording 204-2]](https://youtu.be/Xaus2XoJibM)
   + Working with BigInteger class.
   
 + **Workshop 19 Wed 17.03.2021.** [[Video Recording 203-1]](https://youtu.be/ESIeoLuiLS8) [[Video Recording 204-2]](https://youtu.be/Xaus2XoJibM)

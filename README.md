@@ -13,7 +13,7 @@
 ---
 ### Workshop Log
   
-+ **Consultation Sat 20.03.2021** [[Video Recording 203-1]]
++ **Consultation Sat 20.03.2021** [[Code]](https://github.com/jcarrasquel/dsba/tree/main/consultation-20-03-2021/cities) [[Video Recording]]
   + Declare and implement classes/structures (public vs. private methods/attributes).
   + Read data of objects from a CSV file.
   + Put data in a container of objects

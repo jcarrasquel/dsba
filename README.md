@@ -13,6 +13,16 @@
 ---
 ### Workshop Log
   
++ **Consultation Sat 20.03.2021** [[Video Recording 203-1]]
+  + Declare and implement classes/structures (public vs. private methods/attributes).
+  + Read data of objects from a CSV file.
+  + Put data in a container of objects
+  + Sort objects by overload of <.
+  + Print objects by overload of <<.
+  
++ **Workshop 20 Fri 19.03.2021.** 
+  + Working with BigInteger class.
+  
 + **Workshop 19 Wed 17.03.2021.** [[Video Recording 203-1]](https://youtu.be/ESIeoLuiLS8) [[Video Recording 204-2]](https://youtu.be/Xaus2XoJibM)
   + Explanation of a [vector3D class and examples of operator overloads](https://github.com/jcarrasquel/dsba/tree/main/ws19-17-03-2021/vector3d)
   + Introduction to [exercise of BigInteger class](https://github.com/jcarrasquel/dsba/blob/main/ws19-17-03-2021/BigInteger.pdf).

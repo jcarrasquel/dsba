@@ -27,7 +27,7 @@
   + Sort objects by overload of <.
   + Print objects by overload of <<.
   
-+ **Workshop 20 Fri 19.03.2021.** [[Video Recording 203-1]](https://youtu.be/q12Hf-rLvxw) [[Video Recording 204-2]](https://youtu.be/TdbMRY44hGc )[[BigInteger(in Russian)]](https://youtu.be/E92K7v-XoQI)
++ **Workshop 20 Fri 19.03.2021.** [[Video Recording 203-1]](https://youtu.be/q12Hf-rLvxw) [[Video Recording 204-2]](https://youtu.be/TdbMRY44hGc ) [[BigInteger (in Russian)]](https://youtu.be/E92K7v-XoQI)
   + Working with [BigInteger class](https://github.com/jcarrasquel/dsba/tree/main/ws20-19-03-2021/BigInteger)
   
 + **Workshop 19 Wed 17.03.2021.** [[Video Recording 203-1]](https://youtu.be/ESIeoLuiLS8) [[Video Recording 204-2]](https://youtu.be/Xaus2XoJibM)

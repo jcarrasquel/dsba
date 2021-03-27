@@ -12,7 +12,14 @@
 
 ---
 ### Workshop Log
-  
+
++ **Workshop 21 Fri 26.03.2021** [[Video Recording 203-1]](https://youtu.be/tCTNpWpuDn8) [[Video Recording 204-2]](https://youtu.be/eJWValVcPNU)
+  + Explaining an resolving the mid-term
+
++ **Workshop 21 Wed 24.03.2021** 
+  + Revision of Static, Inline and Exception
+  + Review for mid-term 
+
 + **Consultation Sat 20.03.2021** [[Code]](https://github.com/jcarrasquel/dsba/tree/main/consultation-20-03-2021/cities) [[Video Recording]](https://www.youtube.com/watch?v=hezhwNmfE9A)
   + Declare and implement classes/structures (public vs. private methods/attributes).
   + Read data of objects from a CSV file.

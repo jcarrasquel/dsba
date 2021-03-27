@@ -14,7 +14,7 @@
 ### Workshop Log
 
 + **Workshop 21 Fri 26.03.2021** [[Video Recording 203-1]](https://youtu.be/tCTNpWpuDn8) [[Video Recording 204-2]](https://youtu.be/eJWValVcPNU)
-  + Explaining an resolving the mid-term
+  + Explaining and resolving the mid-term
 
 + **Workshop 21 Wed 24.03.2021** 
   + Revision of Static, Inline and Exception

@@ -17,7 +17,7 @@
   + Explaining and resolving the mid-term
 
 + **Workshop 21 Wed 24.03.2021** 
-  + Revision of [[Exceptions, Inline, and Static]](https://github.com/jcarrasquel/dsba/tree/main/ws21-24-03-2021)
+  + Revision of [Exceptions, Inline, and Static](https://github.com/jcarrasquel/dsba/tree/main/ws21-24-03-2021)
   + Review for mid-term 
 
 + **Consultation Sat 20.03.2021** [[Code]](https://github.com/jcarrasquel/dsba/tree/main/consultation-20-03-2021/cities) [[Video Recording]](https://www.youtube.com/watch?v=hezhwNmfE9A)

@@ -13,11 +13,11 @@
 ---
 ### Workshop Log
 
-+ **Workshop 21 Fri 26.03.2021** [[Video Recording 203-1]](https://youtu.be/tCTNpWpuDn8) [[Video Recording 204-2]](https://youtu.be/eJWValVcPNU)
++ **Workshop 21 Fri 26.03.2021** [[Video Recording 203-1]](https://youtu.be/tCTNpWpuDn8) [[Video Recording 204-2]](https://youtu.be/eJWValVcPNU) [[solution]](https://github.com/jcarrasquel/dsba/tree/main/ws22-26-03-2021/test-25-03-2021)
   + Explaining and resolving the mid-term
 
 + **Workshop 21 Wed 24.03.2021** 
-  + Revision of Static, Inline and Exception
+  + Revision of [[Exceptions, Inline, and Static]](https://github.com/jcarrasquel/dsba/tree/main/ws21-24-03-2021)
   + Review for mid-term 
 
 + **Consultation Sat 20.03.2021** [[Code]](https://github.com/jcarrasquel/dsba/tree/main/consultation-20-03-2021/cities) [[Video Recording]](https://www.youtube.com/watch?v=hezhwNmfE9A)

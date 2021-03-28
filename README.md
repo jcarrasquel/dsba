@@ -13,7 +13,7 @@
 ---
 ### Workshop Log
 
-+ **Consultation Sat 27.03.2021 (Offline)** [[Video Recording]](https://youtu.be/hysgSRymoSA)
++ **Consultation Sat 27.03.2021 (at Pokrovka)** [[Video Recording]](https://youtu.be/hysgSRymoSA)
   + A slight review through some of the professor's lecture's slides.
 
 + **Workshop 22 Fri 26.03.2021** [[Video Recording 203-1]](https://youtu.be/tCTNpWpuDn8) [[Video Recording 204-2]](https://youtu.be/eJWValVcPNU) [[solution]](https://github.com/jcarrasquel/dsba/tree/main/ws22-26-03-2021/test-25-03-2021)

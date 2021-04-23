@@ -29,7 +29,7 @@
   + **About Assembly (Not for Evaluation) and Google Test on QtCreator and CLion** [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws26-15-04-2021)
 
 + **Workshop 25 Mon 12.04.2021** [[Video Recording 203-1]](https://youtu.be/fDexduU81Ug) [[Video Recording 204-2]](https://youtu.be/n7HpLXYAc2s)
-  + **Biwise Operations (tasks from Yandex Context) and Binary-Decimal Conversions** [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws25-12-04-2021)
+  + **Biwise Operations (tasks from Yandex.Contest) and Binary-Decimal Conversions** [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws25-12-04-2021)
 
 + **Workshop 23 Mon 05.04.2021** [[Video Recording 203-1]](https://youtu.be/K7G04YXNwnQ) [[Video Rording 204-2]](https://youtu.be/cD0DWGKQQGM)
   + **Templates and Enums** [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws23-05-04-2021)

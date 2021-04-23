@@ -14,6 +14,7 @@
 ### Workshop Log
 
 ---
+
 ### MODULE 4
 
 + **Workshop 28 Thu 22.04.2021** [[Video Recording 203-1]](https://youtu.be/4du7wDY4KIM) [[Video Recording 204-2]](https://youtu.be/VPd1r8PUubA)
@@ -34,7 +35,7 @@
   + **Templates and Enums** [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws23-05-04-2021)
 
 ---
----
+
 ### MODULE 3
 
 + **Consultation Sat 27.03.2021 (at Pokrovka)** [[Video Recording]](https://youtu.be/hysgSRymoSA)

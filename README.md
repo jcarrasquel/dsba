@@ -2,11 +2,9 @@
 
  **Groups 203-1 and 204-2**
 
-*Material, examples and exercises of the course seminars "Introduction to Programming" (Programming in C++)*
-
-*National Research University Higher School of Economics* (HSE). Moscow, Russia.
-
-*Bachelor's Program in Data Science and Business Analytics*
+Material, examples and exercises of the course seminars "Introduction to Programming" (Programming in C++)
+HSE University. Moscow, Russia.
+Bachelor's Program in Data Science and Business Analytics
 
 **Contact**: [Julio Carrasquel](https://www.hse.ru/staff/jcarrasquel) (Lecturer and Research Assistant at HSE)
 
@@ -18,21 +16,21 @@
 ### MODULE 4
 
 + **Workshop 28 Thu 22.04.2021** [[Video Recording 203-1]](https://youtu.be/4du7wDY4KIM) [[Video Recording 204-2]](https://youtu.be/VPd1r8PUubA)
-  + **Tasks for Review** [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)
+  + Tasks for Review [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)
     + Task 1: Templates, Bitwise Operators and Enums.
     + Task 2: Function-like Classes and STL Algorithms.
     
 + **Workshop 27 Mon 19.04.2021** [[Video Recording 203-1]](https://youtu.be/uC2gjtIV8l4) [[Video Recording 204-2]](https://youtu.be/anTYarPhz0s)
-  + **Function-like Classes with overload of () and their use on STL Algorithms** [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws27-19-04-2021)
+  + Function-like Classes with overload of () and their use on STL Algorithms [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws27-19-04-2021)
 
 + **Workshop 26 Thu 15.04.2021** [[Video Recording 203-1]](https://youtu.be/S_YbwVwv1g4) [[Video Recording 204-2]](https://youtu.be/YAQqKhRDTrc)
-  + **About Assembly (Not for Evaluation) and Google Test on QtCreator and CLion** [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws26-15-04-2021)
+  + About Assembly (Not for Evaluation) and Google Test on QtCreator and CLion [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws26-15-04-2021)
 
 + **Workshop 25 Mon 12.04.2021** [[Video Recording 203-1]](https://youtu.be/fDexduU81Ug) [[Video Recording 204-2]](https://youtu.be/n7HpLXYAc2s)
-  + **Biwise Operations (tasks from Yandex.Contest) and Binary-Decimal Conversions** [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws25-12-04-2021)
+  + Biwise Operations (tasks from Yandex.Contest) and Binary-Decimal Conversions [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws25-12-04-2021)
 
 + **Workshop 23 Mon 05.04.2021** [[Video Recording 203-1]](https://youtu.be/K7G04YXNwnQ) [[Video Rording 204-2]](https://youtu.be/cD0DWGKQQGM)
-  + **Templates and Enums** [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws23-05-04-2021)
+  + Templates and Enums [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws23-05-04-2021)
 
 ---
 

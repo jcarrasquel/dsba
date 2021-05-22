@@ -19,7 +19,7 @@ Bachelor's Program in Data Science and Business Analytics
   + BigHW Discussion
 
 + **Workshop Saturday 22.05.2021**
-  + QtWidgets. Insertion/Deletion in a Model + Saving in a file + static class for global properties. [[SLIDES]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021) [[FULL PROJECT]](https://github.com/jcarrasquel/dsba/tree/main/Sat1-22-05-2021)
+  + QtWidgets. Insertion/Deletion in a Model + Saving in a file + static class for global properties. [[SLIDES]](https://github.com/jcarrasquel/dsba/blob/main/Sat1-22-05-2021/sat1-22-05-2021.pdf) [[FULL PROJECT]](https://github.com/jcarrasquel/dsba/tree/main/Sat1-22-05-2021)
 
 + **Workshop 34 Thu 20.05.2021** [[Video Recording 203-1]](https://youtu.be/270AbQQ8VaE) [[Video Recording 204-2]](https://youtu.be/r9xev0K4mpw)
   + QtWidgets. Exercise: Add Element to Remote Model from another window. [[SLIDE]](https://github.com/jcarrasquel/dsba/blob/main/ws34-20-05-2021/workshop34.pdf)

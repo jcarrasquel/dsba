@@ -25,10 +25,10 @@ Bachelor's Program in Data Science and Business Analytics
   + QtWidgets. Exercise: Add Element to Remote Model from another window. [[FILE]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)
 
 + **Workshop 33 Mon 17.05.2021** [[Video Recording 203-1]](https://youtu.be/RyXmraUzQSc) [[Video Recording 204-2]](https://youtu.be/tKTsnSNoifc)
-  + QtWidgets: Review on Model-View + Master/Detail + Delegates. Exercise: Show Detail on a New Window. [[SLIDES]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021) [[EXAMPLES]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)
+  + QtWidgets: Review on Model-View + Master/Detail + Delegates. Exercise: Show Detail on a New Window. [[SLIDES]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)
 
 + **Workshop 30 Thu 29.04.2021** [[Video Recording]](https://youtu.be/00bWdhS4_rk)
-  + QtWidgets: Into to Model-View + Signal/Slots + Master/Detail. Examples [[EXAMPLES]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)
+  + QtWidgets: Into to Model-View + Signal/Slots + Master/Detail. Examples [[THREE EXAMPLES]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)
 
 + **Workshop 29 Mon 26.04.2021** [[Video Recording 203-1]](https://youtu.be/NBPL5OdyuYs) [[Video Recording 204-2]](https://youtu.be/gJuUdPtBDcw)
   + Pointers + Intro to QtWidgets [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)

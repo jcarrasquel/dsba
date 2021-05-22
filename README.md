@@ -22,16 +22,16 @@ Bachelor's Program in Data Science and Business Analytics
   + QtWidgets. Insertion/Deletion in a Model + Saving in a file + static class for global properties. [[SLIDES]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021) [[FULL PROJECT]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)
 
 + **Workshop 34 Thu 20.05.2021** [[Video Recording 203-1]](https://youtu.be/270AbQQ8VaE) [[Video Recording 204-2]](https://youtu.be/r9xev0K4mpw)
-  + QtWidgets. Exercise: Add Element to Remote Model from another window. [[FILE]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)
+  + QtWidgets. Exercise: Add Element to Remote Model from another window. [[SLIDE]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)
 
 + **Workshop 33 Mon 17.05.2021** [[Video Recording 203-1]](https://youtu.be/RyXmraUzQSc) [[Video Recording 204-2]](https://youtu.be/tKTsnSNoifc)
-  + QtWidgets: Review on Model-View + Master/Detail + Delegates. Exercise: Show Detail on a New Window. [[SLIDES]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)
+  + QtWidgets: Review on Model-View + Master/Detail + Delegates. Exercise: Show Detail on a New Window. [[SLIDES]](https://github.com/jcarrasquel/dsba/blob/main/ws33-17-05-2021/workshop33.pdf)
 
 + **Workshop 30 Thu 29.04.2021** [[Video Recording]](https://youtu.be/00bWdhS4_rk)
-  + QtWidgets: Into to Model-View + Signal/Slots + Master/Detail. Examples [[THREE EXAMPLES]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)
+  + QtWidgets: Into to Model-View + Signal/Slots + Master/Detail. Examples [[THREE EXAMPLES]](https://github.com/jcarrasquel/dsba/tree/main/ws30-29-04-2021)
 
 + **Workshop 29 Mon 26.04.2021** [[Video Recording 203-1]](https://youtu.be/NBPL5OdyuYs) [[Video Recording 204-2]](https://youtu.be/gJuUdPtBDcw)
-  + Pointers + Intro to QtWidgets [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)
+  + Pointers + Intro to QtWidgets [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws29-26-04-2021)
 
 + **Workshop 28 Thu 22.04.2021** [[Video Recording 203-1]](https://youtu.be/4du7wDY4KIM) [[Video Recording 204-2]](https://youtu.be/VPd1r8PUubA)
   + Tasks for Review [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws28-22-04-2021)

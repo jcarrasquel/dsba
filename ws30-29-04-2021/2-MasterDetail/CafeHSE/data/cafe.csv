@@ -1,0 +1,6 @@
+name,price,size,description,calories,images
+tea,80 RUB,250ml,hot tea of your selection,40kcal,images/tea.jpg
+cappuccino,100 RUB,250ml,coffee with milk,260kcal,images/cappuccino.jpg
+caesar salad,150 RUB,300gr,salad with chicken and cheese,380kcal,images/salad.jpg
+pizza margherita,300 RUB,400gr,pizza with tomato and mozzarella,500kcal,images/pizza.jpg
+pasta carbonara,300 RUB,350gr,spaguetti with creamy sauce,500kcal,images/carbonara.jpg

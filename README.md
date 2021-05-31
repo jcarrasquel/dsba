@@ -15,6 +15,15 @@ Bachelor's Program in Data Science and Business Analytics
 
 ### MODULE 4
 
++ **Workshop 37 Mon 31.05.2021**
+  + Qt.Widgets. Custom Filtering/Sorting (with ranges)
+
++ **Workshop Saturday 29.05.2021**
+  + Qt.Widgets. Basic Filtering/Sorting (based on equalities)
+
++ **Workshop 36 Thu 27.05.2021**
+  + QtWidgets. Drawing geometric figures
+
 + **Workshop 35 Mon 24.05.2021**
   + BigHW Discussion
 

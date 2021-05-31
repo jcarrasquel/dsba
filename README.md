@@ -19,10 +19,10 @@ Bachelor's Program in Data Science and Business Analytics
   + Qt.Widgets. Custom Filtering/Sorting (with ranges)
 
 + **Workshop Saturday 29.05.2021**
-  + Qt.Widgets. Basic Filtering/Sorting (based on equalities)
+  + Qt.Widgets. Basic Filtering/Sorting (based on equalities) [[CODE EXAMPLE]](https://github.com/jcarrasquel/dsba/tree/main/Sat2-29-05-2021)
 
 + **Workshop 36 Thu 27.05.2021**
-  + QtWidgets. Drawing geometric figures
+  + QtWidgets. Drawing geometric figures [[CODE EXAMPLES]](https://github.com/jcarrasquel/dsba/tree/main/ws36-27-05-2021)
 
 + **Workshop 35 Mon 24.05.2021**
   + BigHW Discussion

@@ -15,11 +15,15 @@ Bachelor's Program in Data Science and Business Analytics
 
 ### MODULE 4
 
-+ **Workshop 37 Mon 31.05.2021**
-  + Qt.Widgets. Custom Filtering/Sorting (with ranges)
++ **Workshop 39 Mon 07.06.2021**
+  + BigHW Support/Consultation
+
++ **Workshop 37 Mon 31.05.2021 and Workshop 38 Thu 03.06.2021**
+  + QtWidgets. Custom Filtering/Sorting (filtering with ranges and multiple columns)
+  + QtWidgets. Use of Layouts for correct window resizing
 
 + **Workshop Saturday 29.05.2021**
-  + Qt.Widgets. Basic Filtering/Sorting (based on equalities) [[CODE EXAMPLE]](https://github.com/jcarrasquel/dsba/tree/main/Sat2-29-05-2021)
+  + QtWidgets. Basic Filtering/Sorting (based on equalities) [[CODE EXAMPLE]](https://github.com/jcarrasquel/dsba/tree/main/Sat2-29-05-2021)
 
 + **Workshop 36 Thu 27.05.2021**
   + QtWidgets. Drawing geometric figures [[CODE EXAMPLES]](https://github.com/jcarrasquel/dsba/tree/main/ws36-27-05-2021)

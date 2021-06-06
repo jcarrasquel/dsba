@@ -16,7 +16,7 @@ Bachelor's Program in Data Science and Business Analytics
 ### MODULE 4
 
 + **Workshop 39 Mon 07.06.2021**
-  + BigHW Support/Consultation
+  + BigHW Support/Discussion
  
 + **Workshop 37 Mon 31.05.2021 and Workshop 38 Thu 03.06.2021** [[Video Recording 03.06.2021]](https://youtu.be/T5qqxqxAcmA)
   + QtWidgets. Custom Filtering/Sorting (filtering with ranges and multiple columns)
@@ -25,11 +25,11 @@ Bachelor's Program in Data Science and Business Analytics
 + **Workshop Saturday 29.05.2021**
   + QtWidgets. Basic Filtering/Sorting (based on equalities) [[CODE EXAMPLE]](https://github.com/jcarrasquel/dsba/tree/main/Sat2-29-05-2021)
 
-+ **Workshop 36 Thu 27.05.2021**
++ **Workshop 36 Thu 27.05.2021** [[Video Recording]](https://youtu.be/T5Bkj54dTAg)
   + QtWidgets. Drawing geometric figures [[CODE EXAMPLES]](https://github.com/jcarrasquel/dsba/tree/main/ws36-27-05-2021)
 
 + **Workshop 35 Mon 24.05.2021**
-  + BigHW Discussion
+  + BigHW Discussion per each student.
 
 + **Workshop Saturday 22.05.2021**
   + QtWidgets. Insertion/Deletion in a Model + Saving in a file + static class for global properties. [[SLIDES]](https://github.com/jcarrasquel/dsba/blob/main/Sat1-22-05-2021/sat1-22-05-2021.pdf) [[FULL PROJECT]](https://github.com/jcarrasquel/dsba/tree/main/Sat1-22-05-2021)

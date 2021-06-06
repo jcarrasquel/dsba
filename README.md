@@ -18,7 +18,7 @@ Bachelor's Program in Data Science and Business Analytics
 + **Workshop 39 Mon 07.06.2021**
   + BigHW Support/Discussion
  
-+ **Workshop 37 Mon 31.05.2021 and Workshop 38 Thu 03.06.2021** [[Video Recording 03.06.2021]](https://youtu.be/T5qqxqxAcmA)
++ **Workshop 37 Mon 31.05.2021 and Workshop 38 Thu 03.06.2021** [[Video Recording 03.06.2021]](https://youtu.be/T5qqxqxAcmA) [[CODE EXAMPLE]](https://github.com/jcarrasquel/dsba/tree/main/ws38-03-06-2021)
   + QtWidgets. Custom Filtering/Sorting (filtering with ranges and multiple columns)
   + QtWidgets. Use of Layouts for correct window resizing
 

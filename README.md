@@ -18,7 +18,7 @@ Bachelor's Program in Data Science and Business Analytics
 + **Final Workshop Mon 21.06.2021**
   + review of last workshops' topics
    
-+ **Workshop 42 Thu 17.06.2021** [[Video Recording]]() [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws42-17-06-2021)
++ **Workshop 42 Thu 17.06.2021** [[Video Recording]](https://youtu.be/qQWgvko1X4g) [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws42-17-06-2021)
   + up-casting and down-casting between base classes and derived classes
   + virtual functions and polymorphism
   + smart pointers
@@ -27,7 +27,7 @@ Bachelor's Program in Data Science and Business Analytics
 + **Workshop 41 Mon 14.06.2021** [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws41-14-06-2021)
   + Continuation of Safe Arrays: Safe Matrix exercise
 
-+ **Workshop 40 Thu 10.06.2021** [[Video Recording]]()  [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws40-10-06-2021)
++ **Workshop 40 Thu 10.06.2021** [[Video Recording]](https://youtu.be/0djs2m3ESWk)  [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws40-10-06-2021)
   + Safe Arrays
 
 + **Workshop 39 Mon 07.06.2021**

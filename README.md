@@ -15,11 +15,11 @@ Bachelor's Program in Data Science and Business Analytics
 
 ### MODULE 4
 
-+  **Final Workshop Mon 21.06.2021**
-  + Review of last workshops' topics
++ **Final Workshop Mon 21.06.2021**
+  + review of last workshops' topics
    
-+  **Workshop 42 Thu 17.06.2021** [[Video Recording]]() [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws42-17-06-2021)
-  + up-casting and down-casting between base and derived classes
++ **Workshop 42 Thu 17.06.2021** [[Video Recording]]() [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws42-17-06-2021)
+  + up-casting and down-casting between base classes and derived classes
   + virtual functions and polymorphism
   + smart pointers
   + abstract classes

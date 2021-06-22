@@ -15,7 +15,7 @@ Bachelor's Program in Data Science and Business Analytics
 
 ### MODULE 4
 
-+ **Final Workshop Tue 22.06.2021** [[Video Recording]](https://youtu.be/qQWgvko1X4g) [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws-21-06-2021)
++ **Final Workshop Tue 22.06.2021** [[Video Recording]](https://youtu.be/bxULQmG19TI) [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws-21-06-2021)
   + review of last workshops' topics
    
 + **Workshop 42 Thu 17.06.2021** [[Video Recording]](https://youtu.be/qQWgvko1X4g) [[FILES]](https://github.com/jcarrasquel/dsba/tree/main/ws42-17-06-2021)
